@@ -1,4 +1,4 @@
-# omi_port_scan 
+# omi_port_scan / perl script
 Scans Microfocus OMi Monitoring Tools Ports, useful during the implimentation. 
 
 Step 1 Create a file called myhosts.txt and add the OMi  server name / ip address in it, copy this file into the same folder as the perl script.
